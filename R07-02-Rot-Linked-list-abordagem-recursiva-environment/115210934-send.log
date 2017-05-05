@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<head/><log>
+<record>
+  <date>2016-12-19T14:05:14.158-0300</date>
+  <logger>LUCAS CHRISTOPHER DE SOUZA SILVA</logger>
+  <level>FINE</level>
+  <message>File 115210934-LUCAS CHRISTOPHER DE SOUZA SILVA.zip was received. It was sent by LUCAS CHRISTOPHER DE SOUZA SILVA from IP 150.165.74.105</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2016-12-19T15:07:57.354-0300</date>
+  <logger>LUCAS CHRISTOPHER DE SOUZA SILVA</logger>
+  <level>FINE</level>
+  <message>File 115210934-LUCAS CHRISTOPHER DE SOUZA SILVA.zip was received. It was sent by LUCAS CHRISTOPHER DE SOUZA SILVA from IP 150.165.74.105</message>
+</record>
+</log>
+<?xml version="1.0" encoding="US-ASCII" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2016-12-19T22:30:04.597-0300</date>
+  <logger>LUCAS CHRISTOPHER DE SOUZA SILVA</logger>
+  <level>FINE</level>
+  <message>File 115210934-LUCAS CHRISTOPHER DE SOUZA SILVA.zip was received. It was sent by LUCAS CHRISTOPHER DE SOUZA SILVA from IP 192.168.56.1</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2016-12-21T08:25:32.962-0300</date>
+  <logger>LUCAS CHRISTOPHER DE SOUZA SILVA</logger>
+  <level>FINE</level>
+  <message>File 115210934-LUCAS CHRISTOPHER DE SOUZA SILVA.zip was received. It was sent by LUCAS CHRISTOPHER DE SOUZA SILVA from IP 192.168.56.1</message>
+</record>
