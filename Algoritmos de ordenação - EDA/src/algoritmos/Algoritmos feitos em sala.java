@@ -1,6 +1,6 @@
 package algoritmos;
 
-public class Algoritmos_Sala {
+public class AlgoritmosFeitosEmSala {
 
 	// BUBBLE SORT
 	public void bubble(int[] nums) {
