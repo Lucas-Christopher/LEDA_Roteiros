@@ -10,6 +10,7 @@ and Algorithms (LEDA) of the course of Computer Science, Federal University of C
 Here are some data structures and sorting algorithms (and their variations) seen in both disciplines.
 
 _Language used_: Java (https://www.oracle.com/technetwork/java/javase/downloads/index-jsp-138363.html);
+
 _Automation tool_: Apache Maven (https://maven.apache.org/);
 
 ##### _All honor and all glory, everything comes from him and everything is for him: JESUS!_
