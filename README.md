@@ -1,15 +1,15 @@
-#### Algoritmos de Ordenação (e Estrutura de Dados)
+#### Sort Algorithms (and Data Structure)
 
-_Disciplinas_: Estrutura de Dados e Algoritmos - UFCG
-               Lab. de Estrutura de Dados e Algoritmos - UFCG
+_College subjects_: Data Structure and Algorithms - UFCG
+                    Data Structure and Algorithms Lab - UFCG
 
-_Período_: 2016.2
+_Period_: 2016.2
 
-Repositório dedicado às atividades práticas de Estrutura de Dados de Algoritmos (EDA) e Laboratório de Estrutura de Dados
-e Algoritmos (LEDA) do curso de Ciência da Computação, da Universidade Federal de Campina Grande - UFCG.
-Encontra-se aqui, algumas estruturas de dados e algoritmos de ordenação (e suas variações) vistos em ambas as disciplinas.
+Repository dedicated to the practical activities of Data Structure of Algorithms (EDA) and Laboratory of Structure of Data
+and Algorithms (LEDA) of the course of Computer Science, Federal University of Campina Grande - UFCG.
+Here are some data structures and sorting algorithms (and their variations) seen in both disciplines.
 
-_Linguagem utilizada_: Java (https://www.oracle.com/technetwork/java/javase/downloads/index-jsp-138363.html);
-_Ferramenta de automação_: Apache Maven (https://maven.apache.org/);
+_Language used_: Java (https://www.oracle.com/technetwork/java/javase/downloads/index-jsp-138363.html);
+_Automation tool_: Apache Maven (https://maven.apache.org/);
 
-##### _Toda honra e toda glória, tudo vem Dele e tudo é para Ele: JESUS!_
+##### _All honor and all glory, everything comes from him and everything is for him: JESUS!_
