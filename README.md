@@ -1,4 +1,4 @@
-#### Sort Algorithms (and Data Structure)
+### Sort Algorithms (and Data Structure)
 
 _College subjects_: Data Structure and Algorithms - UFCG
                     Data Structure and Algorithms Lab - UFCG
